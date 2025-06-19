@@ -60,6 +60,6 @@ A secure platform for managing forensic case records with user authentication an
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Forensic_Evidence_Management.git
+   git clone https://github.com/Ajaykumards/Forensic_Evidence_Management.git
 
 
