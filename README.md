@@ -42,7 +42,7 @@
 A secure platform for managing forensic case records with user authentication and efficient case tracking. *(Built using HTML, CSS, PHP with MySQL)*
 
 ---
-### 🐍 Snake Contribution Animation
+
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
 
